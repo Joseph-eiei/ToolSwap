@@ -19,4 +19,4 @@ npm i
 
 npm run dev
 ```
-Open http://localhost:3000 in your browser to view the mockup.
+Open http://localhost:8080 in your browser to view the mockup.
